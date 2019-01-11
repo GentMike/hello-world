@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Hi there,
+
+I like drinking coffee.
